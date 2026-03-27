@@ -6,6 +6,7 @@ A collection of Codex skills.
 
 - `feishu-doc-reader`: Feishu/Lark wiki and docx reader with helper scripts, references, and agent config.
 - `jira`: Jira REST API helpers for issue access and management.
+- `doris-binary-upload`: Package and upload Doris FE/BE binaries to COS with upload metadata.
 
 ## Install
 
@@ -30,6 +31,7 @@ Install one skill:
 ```bash
 ./install.sh jira
 ./install.sh feishu-doc-reader
+./install.sh doris-binary-upload
 ```
 
 Install both skills:
