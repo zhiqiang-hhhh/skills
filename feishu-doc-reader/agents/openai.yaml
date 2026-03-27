@@ -1,0 +1,4 @@
+version: 1
+display_name: Feishu Doc Reader
+short_description: Read Feishu wiki/docx content via Open API
+default_prompt: Read this Feishu link and return structured content with markdown output.
