@@ -11,6 +11,14 @@ A collection of Codex skills.
 
 This repo installs skills into the Codex skill directory, which is usually `~/.codex/skills`.
 
+Clone and install from GitHub:
+
+```bash
+git clone git@github.com:zhiqiang-hhhh/skills.git
+cd skills
+./install.sh jira feishu-doc-reader
+```
+
 List installable skills:
 
 ```bash
