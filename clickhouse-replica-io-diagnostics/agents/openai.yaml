@@ -1,0 +1,4 @@
+interface:
+  display_name: "ClickHouse Replica I/O Diagnostics"
+  short_description: "Diagnose replica write, merge, queue, and I/O pressure"
+  default_prompt: "Use $clickhouse-replica-io-diagnostics to compare ClickHouse replicas and explain their write, merge, replication, and I/O wait behavior."
